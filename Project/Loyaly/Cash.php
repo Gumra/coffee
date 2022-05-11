@@ -50,7 +50,6 @@ if (isset($_SESSION['logged_user']))
     </a>
 </div>
 <div class="wrapper">
-    <!--Начало шапки-->
     <div class="users">
         <table width="100%">
             <td>
